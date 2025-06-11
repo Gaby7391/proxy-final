@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/*.js": {
-      "runtime": "nodejs"
-    }
-  }
-}
+Eliminar vercel.json — no necesario
